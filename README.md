@@ -41,7 +41,7 @@ import numpy as np
 # Create the Text using cv2.putText
 img= np.zeros((350,1400),dtype ='uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img,'JEEVA ABISHAKE A',(15,200),font,5,(255),10,cv2.LINE_AA)
+cv2.putText(img,'JESWANTH S',(15,200),font,5,(255),10,cv2.LINE_AA)
 cv2.imshow('created_text',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
