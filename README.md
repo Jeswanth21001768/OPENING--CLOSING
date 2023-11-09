@@ -75,14 +75,14 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![CRE](https://github.com/JEEVAABI/OPENING--CLOSING/assets/93427098/fcfce43b-4f5a-4b80-be10-f856cc44c846)
-
+![image](https://github.com/Jeswanth21001768/OPENING--CLOSING/assets/94155480/9f10c3e0-84da-43b8-8f91-9ffaf52a08a4)
 
 ### Display the result of the Opening
-![OPEN](https://github.com/JEEVAABI/OPENING--CLOSING/assets/93427098/d2a3d189-a4bd-4dec-a2e3-8036a43608f4)
+![image](https://github.com/Jeswanth21001768/OPENING--CLOSING/assets/94155480/0a318fbb-c05d-4445-b505-730d26015d52)
 
 ### Display the result of Closing
-![CLOSING](https://github.com/JEEVAABI/OPENING--CLOSING/assets/93427098/8abe1624-d27f-475f-a5bc-9d558c3629c0)
+![image](https://github.com/Jeswanth21001768/OPENING--CLOSING/assets/94155480/11225581-4217-4bf1-87c8-39f983fa84e8)
+
 
 
 ## Result
